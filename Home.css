@@ -1,0 +1,109 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 975px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Agdasima;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 308px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 468px;
+  height: 468px;
+  animation-timing-function: ease-in-out;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: -260px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Agdasima;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  width: 425px;
+  margin: -260px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: Agdasima;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 2.375rem;
+  text-decoration: underline !important;
+  text-shadow: 2px 2px 8px rgba(128,128,128,1);
+  margin: 33px auto 60px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 358px;
+    margin-right: 358px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    margin-top: -261px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 31px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 206px;
+    margin-right: 206px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 2.25rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 847px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: -135px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.875rem;
+    margin-top: 22px;
+  }
+}
